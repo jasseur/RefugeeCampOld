@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace RefugeeCamp.Domaine.ComplexType
 {
+<<<<<<< HEAD
     public class Contact
+=======
+    class Contact
+>>>>>>> master
     {
         public String PhoneNumber { get; set; }
         public String Adress { get; set; }

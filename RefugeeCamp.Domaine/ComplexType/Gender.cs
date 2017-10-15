@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace RefugeeCamp.Domaine.ComplexType
 {
+<<<<<<< HEAD
  public   enum Gender
+=======
+    enum Gender
+>>>>>>> master
     {M,
      F,
     };

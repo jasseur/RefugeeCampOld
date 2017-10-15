@@ -8,7 +8,11 @@ using RefugeeCamp.Domaine.Entity;
 
 namespace RefugeeCamp.Data
 {
+<<<<<<< HEAD
    public class Context : DbContext
+=======
+    class Context : DbContext
+>>>>>>> master
     {
         public DbSet<Staff> Staffs { get; set; }
         public DbSet<Refugee> Refugees { get; set; }

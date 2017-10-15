@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace RefugeeCamp.Domaine.ComplexType
 {
+<<<<<<< HEAD
     public enum Role
+=======
+     enum Role
+>>>>>>> master
     { CampManager,
       RegistrationManager,
       StaffManager,
